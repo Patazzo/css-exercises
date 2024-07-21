@@ -1,0 +1,23 @@
+* {
+    text-align: center;
+}
+
+.main-paragraph {
+    background: rgb(242, 170, 169);
+    family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+
+.big {
+    font-size: 24px;
+}
+
+#id2 {
+    color: RGB(0, 0, 245);
+    font-size: 34px;
+}
+
+#id4 {
+    background-color: RGB(161, 242, 143);
+    font-size: 24px;
+    font-weight: bold;
+}
